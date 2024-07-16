@@ -1,0 +1,116 @@
+#Mainhead{
+    text-align: center;
+    font-size: 3rem;
+    background-color: beige;
+    color: blue;
+    border: 10px solid greenyellow;
+    border-radius: 50px;
+    text-shadow: 5px 10px 25px orangered;
+    box-shadow: 10px 10px 25px  orangered;
+
+}
+
+#mainbody{
+    background-color: chartreuse;
+}
+
+#cskbody{
+    background-color: yellow;
+}
+
+#cskhead{
+    text-align: center;
+    font-size: 3rem;
+    background-color: yellow;
+    color: blue;
+    border: 10px solid yellowgreen;
+    border-radius: 50px;
+}
+
+#Dhonihead{
+    color: blue;
+}
+
+#Dhoniface{
+    width: 250px;
+    height: 250px;
+}
+
+#Rainahead{
+    color: blue;
+}
+#Jadejahead{
+    color: blue;
+}
+
+#Jadejaface{
+    width: 250px;
+    height: 250px;
+}
+
+#Rcbbody{
+    background-color: red;
+}
+
+#sirajface{
+    width: 250px;
+    height: 250px;
+}
+
+#Srhbody{
+    background-color: orangered;
+}
+
+#Srhtop{
+    text-align: center;
+    font-size: 3rem;
+    background-color: crimson;
+    color: blue;
+    border: 10px solid yellowgreen;
+    border-radius: 50px;
+}
+
+#bhuviface{
+    width: 250px;
+    height: 250px;
+}
+
+#nitishface{
+    width: 250px;
+    height: 250px;
+}
+
+#rcbhead{
+    text-align: center;
+    font-size: 3rem;
+    background-color: red;
+    color: blue;
+    border: 10px solid darkgreen;
+    border-radius: 50px;
+}
+
+#viratname{
+    color: aqua;
+}
+
+#abdname{
+    color: aqua;
+}
+
+#sirajname{
+    color: aqua;
+}
+
+#nitishname{
+    color: midnightblue;
+}
+#bhuviname{
+    color: midnightblue;
+}
+#warnername{
+    color: midnightblue;
+}
+
+
+
+
